@@ -1,6 +1,6 @@
-package primer.ejercicio;
+package Ejercicios.repaso;
 
-public class PrimerEjercicioLogica {
+public class PrimerEjercicioRepaso {
 
 	public static void main(String[] args) {
 		
